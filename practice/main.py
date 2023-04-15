@@ -1,5 +1,1 @@
-import datetime
-
-x = datetime.datetime.now()
-
-print(x.strftime("%m"))
+print("This is main file")
